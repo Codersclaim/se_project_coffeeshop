@@ -16,6 +16,8 @@
   font-size: 44px;
   line-height: 52px;
   margin-bottom: 80px;
+  display: flex;
+  justify-content: center;
 }
 
 .reservation__form {
@@ -56,6 +58,7 @@
   height: 60px;
   display: flex;
   justify-content: flex-start;
+  width: 385px;
 }
 
 .form__button {

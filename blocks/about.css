@@ -17,6 +17,8 @@
   position: relative;
   background-color: #0a2850;
   overflow: hidden;
+  display: flex;
+  z-index: 1;
 }
 
 .about__title {
