@@ -62,7 +62,7 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-
+  margin-right: 80px;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
