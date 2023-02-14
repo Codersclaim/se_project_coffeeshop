@@ -23,7 +23,7 @@
   line-height: 20px;
   font-family: "Inter", Arial, sans-serif;
   font-weight: bold;
-  margin-top: 0;
+
   margin-bottom: 20px;
 }
 
@@ -47,6 +47,13 @@
   height: 16px;
   width: 16px;
 }
+
+.footer__social-icon:last-of-type {
+  margin-right: 10px;
+  height: 16px;
+  width: 16px;
+}
+
 .footer__column {
   display: flex;
   justify-content: right;
