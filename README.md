@@ -14,3 +14,4 @@ This is the second project of the Software Engineer program at Practicum by Yand
 ## Plan on improving the project
 
 Add your ideas here :)
+The style I may add in the future is adding better backgrounds and dropdown lists of recipes for the project. I may add simple life improvements for better convenience in using the website with more categories.
