@@ -1,5 +1,6 @@
 .card {
   max-width: 600px;
+  width: 600px;
 }
 .card__title {
   font-family: "Inter", Arial, sans-serif;
@@ -7,6 +8,7 @@
   font-size: 20px;
   line-height: 30px;
   margin-bottom: 32px;
+  margin-top: 0;
 }
 .card__list-item {
   font-family: "Noto Serif", "Times New Roman", serif;
@@ -15,8 +17,9 @@
   font-size: 16px;
   line-height: 20px;
   padding: 0;
-  width: 600px;
+
   margin-bottom: 16px;
+  font-weight: normal;
 }
 .card__list-divider {
   border-bottom: 1px solid #fff;
@@ -25,4 +28,5 @@
 
 .card__list {
   padding: 0;
+  margin: 0;
 }

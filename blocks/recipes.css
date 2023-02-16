@@ -27,6 +27,7 @@
   line-height: 30px;
   max-width: 438px;
   margin-bottom: 80px;
+  margin-top: 0;
 }
 
 .recipes__videos {
@@ -37,9 +38,9 @@
 }
 
 .recipes__video-item {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  height: 273px;
+  width: 480px;
+  border: 0;
 }
 
 .recipes__iframe {
