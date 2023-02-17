@@ -38,15 +38,14 @@
 }
 
 .recipes__video-item {
-  height: 273px;
   width: 480px;
-  border: 0;
 }
 
 .recipes__iframe {
   height: 273px;
   width: 480px;
-  margin: 0 40px 24px 0;
+  margin-right: 40px;
+  border: 0;
 }
 
 .recipes__video-caption {
