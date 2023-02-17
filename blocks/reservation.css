@@ -23,10 +23,11 @@
 
 .reservation__form {
   max-width: 385px;
+  margin: 0;
 }
 
 .form {
-  margin: 0;
+  border: 0;
 }
 
 .form__fieldset {
