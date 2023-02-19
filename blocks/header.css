@@ -51,6 +51,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: 1;
 }
 
 .header__paragraph {
